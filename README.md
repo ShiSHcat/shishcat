@@ -5,6 +5,7 @@ Young backend developer from Italy. Most of my past projects are related to Tele
 - 🐍 learning Python
 - 📫 reach me: [\[website\]](https://shish.cat) [\[telegram\]](https://t.me/shishcat) [\[discord\]](https://discord.gg/5ffUy93Cs8)
 
-Public projects: 
+Projects: 
 - [ShiSHTransfer](https://github.com/shishcat/ShiSHTransfer)
 - [DWGram](https://github.com/ShiSHcat/dwgram-public)
+- and much more...
