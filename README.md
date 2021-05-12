@@ -1,5 +1,6 @@
 ### Hi there 👋
-Young backend developer from Italy. Most of my past projects are related to Telegram
+Young backend developer from Italy\
+Most of my past projects are related to Telegram
 - 🇮🇹 from Italy
 - 💻 backend developer (NodeJS, PHP, Amphp, Puppeteer, Telegram API, Discord API)
 - 🐍 learning Python
