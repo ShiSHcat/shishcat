@@ -1,4 +1,4 @@
-### Hi there 👋. I'm ShiSHcat.
+### Hi there 👋
 Young backend developer from Italy. Most of my past projects are related to Telegram.
 - 🇮🇹 from italy
 - 💻 backend developer (NodeJS, PHP)
