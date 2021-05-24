@@ -7,5 +7,5 @@
 Projects: 
 - [ShiSHTransfer](https://github.com/shishcat/ShiSHTransfer): file uploader on the Telegram messenger, that splits files in parts to bypass limits
 - [DWGram](https://github.com/ShiSHcat/dwgram-public): easy to use API to get files from Telegram
-- and much more...
+- and much more...\
 ![](https://komarev.com/ghpvc/?username=shishcat)
