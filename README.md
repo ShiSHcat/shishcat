@@ -4,8 +4,9 @@
 - 🐍 learning Python
 - 📫 reach me: [\[website\]](https://shish.cat) [\[telegram\]](https://t.me/shishcat) [\[discord\]](https://discord.gg/5ffUy93Cs8)
 
+### Check out my project [ShiSHTransfer](https://shishtransfer.com)!
 Projects: 
-- [ShiSHTransfer](https://github.com/shishcat/ShiSHTransfer): file uploader on the Telegram messenger, that splits files in parts to bypass limits
+- [ShiSHTransfer](https://shishtransfer.com)!
 - [DWGram](https://github.com/ShiSHcat/dwgram-public): easy to use API to get files from Telegram
 - and much more...
 
