@@ -12,7 +12,7 @@ Projects:
 
 ![](https://komarev.com/ghpvc/?username=shishcat)
 
-Note: I may be slow to respond, please contact me on  [telegram](https://t.me/shishcat) for the fastes response.
+Note: I may be slow to respond, please contact me on  [telegram](https://t.me/shishcat) for the fastest response.
 
 <details>
   <summary>CodersRank</summary>
