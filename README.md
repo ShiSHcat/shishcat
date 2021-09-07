@@ -2,7 +2,7 @@
 - 🇮🇹 from Italy
 - 💻 backend developer (NodeJS, PHP, Amphp, Puppeteer, Telegram API, Discord API)
 - 🐍 learning Python
-- 📫 reach me: [\[website\]](https://shish.cat) [\[telegram\]](https://t.me/shishcat) [\[discord\]](https://discord.gg/5ffUy93Cs8)
+- 📫 reach me: [\[website\]](https://shish.cat)  [\[telegram\]](https://t.me/shishcat) [\[discord\]](https://discord.gg/5ffUy93Cs8)
 
 ### Check out my project [ShiSHTransfer](https://shishtransfer.com)!
 Projects: 
@@ -11,6 +11,9 @@ Projects:
 - and much more...
 
 ![](https://komarev.com/ghpvc/?username=shishcat)
+
+Note: I may be slow to respond, please contact me on  [telegram](https://t.me/shishcat) for the fastes response.
+
 <details>
   <summary>CodersRank</summary>
   <a href="https://profile.codersrank.io/user/shishcat"><img src="https://raw.githubusercontent.com/ShiSHcat/shishcat/master/cr2.png"></a>
