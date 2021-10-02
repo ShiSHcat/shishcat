@@ -10,6 +10,9 @@ Projects:
 - [DWGram](https://github.com/ShiSHcat/dwgram-public): easy to use API to get files from Telegram
 - and much more...
 
+Admin of:
+- [DevMisc](https://t.me/DevMisc): A channel where you can find developer tips, tools, APIs, resources, memes and interesting contents.
+
 ![](https://komarev.com/ghpvc/?username=shishcat)
 
 Note: I may be slow to respond, please contact me on  [telegram](https://t.me/shishcat) for the fastest response.
