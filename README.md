@@ -4,12 +4,6 @@
 - 🐍 learning Python
 - 📫 reach me: [\[website\]](https://shish.cat)  [\[telegram\]](https://t.me/shishcat) [\[discord\]](https://discord.gg/5ffUy93Cs8)
 
-### Check out my project [ShiSHTransfer](https://shishtransfer.com)!
-Projects: 
-- [ShiSHTransfer](https://shishtransfer.com)!
-- [DWGram](https://github.com/ShiSHcat/dwgram-public): easy to use API to get files from Telegram
-- and much more...
-
 Admin of:
 - [DevMisc](https://t.me/DevMisc): A channel where you can find developer tips, tools, APIs, resources, memes and interesting contents.
 
