@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🇮🇹 from Italy
-- 💻 backend developer (NodeJS, PHP, Amphp, Puppeteer, Telegram API, Discord API)
-- 🐍 learning Python
+- 💻 student, developer and cybersecurity enthusiast
 - 📫 reach me: [\[website\]](https://shish.cat)  [\[telegram\]](https://t.me/shishcat) [\[discord\]](https://discord.gg/5ffUy93Cs8)
 
 Admin of:
